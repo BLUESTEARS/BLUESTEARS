@@ -6,5 +6,5 @@
 </div>
 <div align="center">
 
-[main](https://mewkris.atabook.org/) ノ [the victim](https://github.com/mewkris) ♡
+[main](https://github.com/phantomchampion) ノ [the victim](https://github.com/mewkris) ♡
 </div>
