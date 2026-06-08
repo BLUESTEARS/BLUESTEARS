@@ -6,5 +6,5 @@
 </div>
 <div align="center">
 
-[main](https://github.com/phantomchampion) ノ [the victim](https://github.com/mewkris) ♡
+[main](https://github.com/phantomchampion) ノ [the victim](https://github.com/mewbites) ♡
 </div>
